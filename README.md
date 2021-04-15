@@ -18,7 +18,10 @@ hay establecido un valor definido para el tipo”.
 “No existe un valor válido”.
 
 
-Ejercicio 2. 
+
+Ejercicios 2.
+
+
 Desarrollar una calculadora, la cual, en base a un operador, realice una
 operación con dos números enteros ya definidos y mostrar el resultado,
 los operadores a tener en cuenta son los vistos en la tabla de
