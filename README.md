@@ -1,7 +1,7 @@
 # Switch-Case
 Ejercicios básicos de Switch Case
 
-Ejercicios 1.
+Ejercicio 1.
 
 Desarrolla un programa donde por medio del tipo de un motor,
 determinar qué tipo de fluido puede trasportar éste según las siguientes
@@ -19,7 +19,7 @@ hay establecido un valor definido para el tipo”.
 
 
 
-Ejercicios 2.
+Ejercicio 2.
 
 
 Desarrollar una calculadora, la cual, en base a un operador, realice una
